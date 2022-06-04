@@ -1,6 +1,6 @@
 
 {
-  "homepage": "https://github.com/valelectronic/DarkMode-.git",
+  "homepage": "https://github.com/valelectronic/DarkMode.git",
   "name": "exports",
   "version": "0.1.0",
   "private": true,
@@ -23,6 +23,7 @@
 "deploy": "gh-pages -d build"
 
   },
+
   "eslintConfig": {
     "extends": [
       "react-app",
