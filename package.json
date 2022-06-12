@@ -1,6 +1,5 @@
-
 {
-  "homepage": "https://github.com/valelectronic/DarkMode.git",
+  "homepage": "https://github.com/valelectronic/DarkMode",
   "name": "exports",
   "version": "0.1.0",
   "private": true,
@@ -19,11 +18,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build"
-
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
-
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -44,5 +41,16 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valelectronic/DarkMode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valelectronic/DarkMode/issues"
   }
 }
