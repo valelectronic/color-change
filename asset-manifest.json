@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/color-change/static/css/main.284c93b6.css",
+    "main.js": "/github.io/color-change/static/js/main.d7984dfa.js",
+    "index.html": "/github.io/color-change/index.html",
+    "main.284c93b6.css.map": "/github.io/color-change/static/css/main.284c93b6.css.map",
+    "main.d7984dfa.js.map": "/github.io/color-change/static/js/main.d7984dfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.284c93b6.css",
+    "static/js/main.d7984dfa.js"
+  ]
+}
